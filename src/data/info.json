@@ -1,0 +1,27 @@
+{
+  "name": "Hans Medina",
+  "info": "Full Stack Web Developer",
+  "location": "Pucallpa, Peru",
+  "email": "twd2206@gmail.com",
+  "birthday": "22 June, 1999",
+  "description": [
+    "Software Developer, Focused on Web development (Fullstack),",
+    "using technologies such as React.js and Vue to create modern and scalable interfaces.",
+    "With experience in microservices using Node.js as Backend main language",
+    "Open learning new things and sharing knowledge to improve as a Software developer"
+  ],
+  "links": [
+    {
+      "icon": "fab fa-github",
+      "url": "https://github.com/hm2206"
+    },
+    {
+      "icon": "fab fa-linkedin-in",
+      "url": "https://www.linkedin.com/in/hans-medina-759035178"
+    },
+    {
+      "icon": "far fa-file-pdf",
+      "url": "/src/assets/file/curriculum.pdf"
+    }
+  ]
+}

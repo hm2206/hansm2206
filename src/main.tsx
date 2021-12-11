@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import './assets/scss/App.scss'
 import '@fortawesome/fontawesome-free/css/all.css'
+import './assets/scss/App.scss'
 import App from './App';
 
 ReactDOM.render(

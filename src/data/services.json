@@ -1,0 +1,32 @@
+[
+  { 
+    "title": "Web development",
+    "icon": "fas fa-globe",
+    "description": "Dynamic website creation"
+  },
+  { 
+    "title": "Mobile Development",
+    "icon": "fas fa-mobile-alt",
+    "description": "Creation of custom mobile applications"
+  },
+  {
+    "title": "System analyst",
+    "icon": "fas fa-project-diagram",
+    "description": "Systems analysis, class diagram creation, UML"
+  },
+  {
+    "title": "Database",
+    "icon": "fas fa-database",
+    "description": "Creation and administration of databases"
+  },
+  {
+    "title": "Microservices",
+    "icon": "fas fa-cubes",
+    "description": "Creation of applications oriented to microservices, using hexagonal architecture and DDD"
+  },
+  {
+    "title": "Support",
+    "icon": "fas fa-question-circle",
+    "description": "Maintenance of web and mobile applications"
+  }
+]

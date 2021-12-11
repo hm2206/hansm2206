@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Html",
+    "porcentaje": 80
+  },
+  {
+    "title": "Css",
+    "porcentaje": 75
+  },
+  {
+    "title": "JavaScript",
+    "porcentaje": 85
+  },
+  {
+    "title": "React",
+    "porcentaje": 67
+  },
+  {
+    "title": "Vue",
+    "porcentaje": 67
+  },
+  {
+    "title": "Sass",
+    "porcentaje": 56
+  },
+  {
+    "title": "TypeScript",
+    "porcentaje": 52
+  },
+  {
+    "title": "Laravel",
+    "porcentaje": 72
+  },
+  {
+    "title": "Next.js",
+    "porcentaje": 54
+  },
+  {
+    "title": "Nest.js",
+    "porcentaje": 50
+  },
+  {
+    "title": "Docker",
+    "porcentaje": 65
+  },
+  {
+    "title": "Git",
+    "porcentaje": 74
+  }
+]
