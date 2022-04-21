@@ -42,12 +42,12 @@ function Sidebar() {
         {/* <!-- navigation menu --> */}
         <nav>
           <ul className="vertical-menu scrollspy">
-            <li><a href="https://jthemes.net/themes/html/bako-html/#home" className="nav-link active"><i className="icon-home"></i>Home</a></li>
-            <li><a href="https://jthemes.net/themes/html/bako-html/#about" className="nav-link"><i className="icon-user"></i>About</a></li>
-            <li><a href="https://jthemes.net/themes/html/bako-html/#services" className="nav-link"><i className="icon-bulb"></i>Services</a></li>
-            <li><a href="https://jthemes.net/themes/html/bako-html/#resume" className="nav-link"><i className="icon-graduation"></i>Resume</a></li>
-            <li><a href="https://jthemes.net/themes/html/bako-html/#works" className="nav-link"><i className="icon-grid"></i>Works</a></li>
-            <li><a href="https://jthemes.net/themes/html/bako-html/#contact" className="nav-link"><i className="icon-phone"></i>Contact</a></li>
+            <li><a href="#home" className="nav-link active"><i className="icon-home"></i>Home</a></li>
+            <li><a href="#about" className="nav-link"><i className="icon-user"></i>About</a></li>
+            <li><a href="#services" className="nav-link"><i className="icon-bulb"></i>Services</a></li>
+            <li><a href="#resume" className="nav-link"><i className="icon-graduation"></i>Resume</a></li>
+            <li><a href="#works" className="nav-link"><i className="icon-grid"></i>Works</a></li>
+            <li><a href="#contact" className="nav-link"><i className="icon-phone"></i>Contact</a></li>
           </ul>
         </nav>
         
